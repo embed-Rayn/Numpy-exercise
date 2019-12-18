@@ -18,10 +18,11 @@ Numpy는 아래와 같은 특징을 갖습니다.
 |:---:|---|
 | 1 | shape, data type of array |
 | 2 | Indexing, Slicing, Iterating |
-| 3 | Operations |
-| 4 | Mathematical Functions |
-| 5 | Random Sampling |
-| 6 | Input and Output |
+| 3 | Operations1 |
+| 4 | Operations2 |
+| 5 | Mathematical Functions |
+| 6 | Random Sampling |
+| 7 | Input and Output |
 
 ## Reffernce
 | Source | Description |
