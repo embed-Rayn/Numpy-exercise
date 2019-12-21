@@ -13,6 +13,7 @@ Numpy는 아래와 같은 특징을 갖습니다.
 - 행렬 인덱싱(array indexing) 기능
 
 ## Index
+
 ### [wikidocs](./wikidocs_code)
 | Number | Description |
 |:---:|---|
@@ -23,6 +24,8 @@ Numpy는 아래와 같은 특징을 갖습니다.
 | 5 | Mathematical Functions |
 | 6 | Random Sampling |
 | 7 | Input and Output |
+### [101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+
 
 ## Reffernce
 | Source | Description |
