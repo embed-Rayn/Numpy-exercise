@@ -20,6 +20,7 @@ Numpy는 아래와 같은 특징을 갖습니다.
 
 ### [wikidocs](./wikidocs_code)
 [wikidocs: PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)책에 나오는 예제 코드입니다.
+
 | Number | Description |
 |:---:|---|
 | 1 | Pytorch Basic |
